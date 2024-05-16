@@ -1,4 +1,4 @@
-package br.alura.songscout.SongScout.service;
+package br.alura.songscout.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

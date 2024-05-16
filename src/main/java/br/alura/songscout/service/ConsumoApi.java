@@ -1,4 +1,4 @@
-package br.alura.songscout.SongScout.service;
+package br.alura.songscout.service;
 
 import java.io.IOException;
 import java.net.URI;
