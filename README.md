@@ -14,7 +14,7 @@
   <li>Java 8+</li>
   <li>Spring</li>
   <li>Hibernate JPA</li>
-  <li>Postgres</li>
+  <li>PostgreSQL</li>
 </ul>
 <h2>:hammer:Como funciona?</h2>
 <p>Selecione o item desejado de acordo com as opções</p>
