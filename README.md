@@ -17,8 +17,7 @@
   <li>PostgreSQL</li>
 </ul>
 <h2>:hammer:Como funciona?</h2>
-<p>Configure no arquivo Application.properties as informações do seu banco de dados.</p>
-<p>Ao rodar a aplicação selecione o item desejado de acordo com as opções:</p>
+<p>Configure no arquivo Application.properties as informações do seu banco de dados. Ao rodar a aplicação selecione o item desejado de acordo com as opções:</p>
 <ol>
   <li>Cadastrar artistas: o programa irá pedir para selecionar o nome do artista e o tipo (solo, dupla, banda)</li>
   <li>Cadastrar músicas: o sistema vai pedir o nome do artista filtrando no banco e pedir para informar o nome da música inserindo no banco</li>
