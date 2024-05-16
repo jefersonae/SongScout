@@ -16,10 +16,10 @@
   <li>Postgres</li>
 </ul>
 <h2>:hammer:Como funciona?</h2>
-<ul>
-  <li>Selecione o item desejado de acordo com as opções:</li>
-  <li>1- Cadastrar artistas: o programa irá pedir para selecionar o nome do artista e o tipo(solo,dupla,banda)</li>
-  <li>2- Cadastrar músicas: o sistema vai pedir o nome do artista filtrando no banco e pedir para informar o nome da música inserindo no banco</li>
-  <li>3- Buscar músicas: o programa mostrar todas as músicas cadastradas no banco/li>
-  <li>4- Buscar música por artistas: o sistema vai filtrar as músicas cadastradas por aquele artista</li>
-</ul>
+<p>Selecione o item desejado de acordo com as opções</p>
+<ol>
+  <li>Cadastrar artistas: o programa irá pedir para selecionar o nome do artista e o tipo (solo, dupla, banda)</li>
+  <li>Cadastrar músicas: o sistema vai pedir o nome do artista filtrando no banco e pedir para informar o nome da música inserindo no banco</li>
+  <li>Buscar músicas: o programa mostrar todas as músicas cadastradas no banco</li>
+  <li>Buscar música por artistas: o sistema vai filtrar as músicas cadastradas por aquele artista</li>
+</ol>
