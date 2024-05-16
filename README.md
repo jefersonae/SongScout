@@ -1,5 +1,5 @@
+![Logo do projeto ScoutSong](https://github.com/jefersonae/SongScout/assets/38109358/7ac0e037-57be-412e-9a2c-b69416d71056)
 <h1>SongScout</h1>
-![Logo do projeto ScoutSong](https://github.com/jefersonae/SongScout/assets/38109358/b5c61d3b-7f50-4267-bde0-5380e9959df4)
 <a href="https://docs.oracle.com/en/java/javase/20/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html"><img height= "35" src= "https://img.shields.io/badge/JDK-007396?style=for-the-badge&logo=java&logoColor=white"></a>
 <h2>:clipboard:Breve Resumo</h2>
